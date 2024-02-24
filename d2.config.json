@@ -1,7 +1,7 @@
 {
   "type": "app",
-  "name": "datastore",
-  "title": "Datastore Management",
+  "name": "datastore-pro",
+  "title": "Datastore Pro Manager",
   "coreApp": true,
   "version": "1.3.4",
   "description": ""
